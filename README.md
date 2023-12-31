@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KaushalyaDasanayake
 - 👀 I’m interested in Webdevelopment and mobile development
-- 🌱 I’m currently learning software engineering (BEng (hons) London Met)
+- 🌱 BEng(hons) software engineering
 - 📫 How to reach me www.linkedin.com/in/kaushalya-rathnayake-3b81a6240 & Professional Instagram https://www.instagram.com/kaushgallery/
 
 <!---
