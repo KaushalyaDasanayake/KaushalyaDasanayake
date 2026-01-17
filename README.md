@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @KaushalyaDasanayake
-- 👀 I’m interested in Webdevelopment and mobile development
-- 🌱 BEng(hons) software engineering
-- 📫 How to reach me www.linkedin.com/in/kaushalya-rathnayake-3b81a6240 & Professional Instagram https://www.instagram.com/kaushgallery/
+- 👀 Software Engineer with growing focus on Machine Learning
+- 🌱 BEng(hons) in software engineering
+- 📫 How to reach me www.linkedin.com/in/kaushalya-rathnayake
 
 <!---
 KaushalyaDasanayake/KaushalyaDasanayake is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
