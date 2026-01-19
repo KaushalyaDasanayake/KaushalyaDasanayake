@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @KaushalyaDasanayake
+- 👋 Hi, I’m @KaushalyaRathanayke
 - 👀 Software Engineer with growing focus on Machine Learning
 - 🌱 BEng(hons) in software engineering
 - 📫 How to reach me: https://www.linkedin.com/in/kaushalya-rathnayake-d/
