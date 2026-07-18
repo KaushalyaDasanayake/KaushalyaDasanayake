@@ -1,10 +1,10 @@
 # 👋 Hi, I'm Kaushalya Rathnayake
 
-Software Engineer with a growing focus on Machine Learning, Natural Language Processing, and practical AI applications.
+Software Engineer with a growing focus on Machine Learning, Natural Language Processing and practical AI applications.
 
 ## About Me
 
-I enjoy building software that solves real problems and exploring how machine learning can be applied in useful, production-oriented ways. My current interests include NLP, LLM-based applications, backend development, and Python-based ML projects.
+I enjoy building software that solves real problems and exploring how machine learning can be applied in useful, production-oriented ways. My current interests include NLP, LLM-based applications, backend development and Python-based ML projects.
 
 - BEng (Hons) in Software Engineering
 - Interested in Machine Learning, NLP, and intelligent systems
